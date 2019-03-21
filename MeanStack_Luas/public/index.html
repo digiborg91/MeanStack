@@ -1,0 +1,51 @@
+<!DOCTYPE>
+<html ng-app="myApp">
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+
+  <title>Luas App</title>
+</head>
+<body>
+  <div class="container" ng-controller="AppCtrl">
+    <h1>Luas</h1>
+
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Stops</th>         
+          <th>Reviews</th>
+          <th>Latitude</th>
+          <th>Longitude</th>
+          <th>Action</th>
+          <th>&nbsp;</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><input class="form-control" ng-model="luas_stops_english.Stops"></td>
+          <td><input class="form-control" ng-model="luas_stops_english.Reviews"></td>
+          <td><input class="form-control" ng-model="luas_stops_english.Latitude"></td>
+          <td><input class="form-control" ng-model="luas_stops_english.Longitude"></td>
+          <td><button class="btn btn-primary" ng-click="addStop()">Add Stop</button></td>
+          <td><button class="btn btn-info" ng-click="update()">Update</button>&nbsp;&nbsp;<button class="btn btn-info" ng-click="deselect()">Clear</button></td>
+        </tr>
+        <tr ng-repeat="luas_stops_english in luaslist">  <!--had stops in instead of luas_stops_english which leads to the .json to populate table.-->
+          <td>{{luas_stops_english.Stops}}</td>
+          <td>{{luas_stops_english.Review}}</td>
+          <td>{{luas_stops_english.Latitude}}</td>
+          <td>{{luas_stops_english.Longitude}}</td>
+          <td><button class="btn btn-danger" ng-click="remove(luas_stops_english._id)">Remove</button></td>
+          <td><button class="btn btn-warning" ng-click="edit(luas_stops_english._id)">Edit</button></td>
+        </tr>
+      </tbody>
+    </table>
+
+  </div>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.12/angular.min.js"></script>
+<script src="controllers/controller.js"></script>
+</body>
+</html>

@@ -1,0 +1,350 @@
+[
+  {
+    "Stops": "Saggart",
+    "Reviews": "Quiet stop on time",
+    "Latitude": 53.284679,
+    "Longitude": -6.437763
+  },
+  {
+    "Stops": "Fortunestown",
+    "Reviews": "Loud stop on time",
+    "Latitude": 53.284251,
+    "Longitude": -6.424602
+  },
+  {
+    "Stops": "Citywest Campus",
+    "Reviews": "Quiet stop on time",
+    "Latitude": 53.287833,
+    "Longitude": -6.418915
+  },
+  {
+    "Stops": "Cheeverstown",
+    "Reviews": "Very Far From Town",
+    "Latitude": 53.290982,
+    "Longitude": -6.406849
+  },
+  {
+    "Stops": "Fettercairn",
+    "Reviews": "Very costly to city centre",
+    "Latitude": 53.293519,
+    "Longitude": -6.395554
+  },
+  {
+    "Stops": "Tallaght",
+    "Reviews": "Rough area, dont wear valuables",
+    "Latitude": 53.287494,
+    "Longitude": -6.374589
+  },
+  {
+    "Stops": "Hospital",
+    "Reviews": "you dont want to end up here",
+    "Latitude": 53.289369,
+    "Longitude": -6.37885
+  },
+  {
+    "Stops": "Cookstown",
+    "Reviews": "great people get on here",
+    "Latitude": 53.293506,
+    "Longitude": -6.384397
+  },
+  {
+    "Stops": "Belgard",
+    "Reviews": "Very costly to city centre",
+    "Latitude": 53.299286,
+    "Longitude": -6.374886
+  },
+  {
+    "Stops": "Kingswood",
+    "Reviews": "Very Far From Town",
+    "Latitude": 53.303694,
+    "Longitude": -6.36525
+  },
+  {
+    "Stops": "Red Cow",
+    "Reviews": "Very costly to city centre",
+    "Latitude": 53.316833,
+    "Longitude": -6.369872
+  },
+  {
+    "Stops": "Kylemore",
+    "Reviews": "Quiet stop on time",
+    "Latitude": 53.326656,
+    "Longitude": -6.343444
+  },
+  {
+    "Stops": "Bluebell",
+    "Reviews": "Loud stop on time",
+    "Latitude": 53.329297,
+    "Longitude": -6.333792
+  },
+  {
+    "Stops": "Blackhorse",
+    "Reviews": "Very Far From Town. has good shops.",
+    "Latitude": 53.334258,
+    "Longitude": -6.327394
+  },
+  {
+    "Stops": "Drimnagh",
+    "Reviews": "Posh people live here",
+    "Latitude": 53.335361,
+    "Longitude": -6.318161
+  },
+  {
+    "Stops": "Goldenbridge",
+    "Reviews": "1 stop per hour. not great",
+    "Latitude": 53.335892,
+    "Longitude": -6.313569
+  },
+  {
+    "Stops": "Suir Road",
+    "Reviews": "2 stops per hour. not great",
+    "Latitude": 53.336617,
+    "Longitude": -6.307211
+  },
+  {
+    "Stops": "Rialto",
+    "Reviews": "3 stop per hour. average",
+    "Latitude": 53.337908,
+    "Longitude": -6.297242
+  },
+  {
+    "Stops": "Fatima",
+    "Reviews": "1 stop per hour. not great",
+    "Latitude": 53.338439,
+    "Longitude": -6.292547
+  },
+  {
+    "Stops": "James's",
+    "Reviews": "always busy",
+    "Latitude": 53.341942,
+    "Longitude": -6.293361
+  },
+  {
+    "Stops": "Heuston",
+    "Reviews": "never on time",
+    "Latitude": 53.346647,
+    "Longitude": -6.291808
+  },
+  {
+    "Stops": "Museum",
+    "Reviews": "full of tourists",
+    "Latitude": 53.347867,
+    "Longitude": -6.286714
+  },
+  {
+    "Stops": "Smithfield",
+    "Reviews": "very rough crowd",
+    "Latitude": 53.347133,
+    "Longitude": -6.277728
+  },
+  {
+    "Stops": "Four Courts",
+    "Reviews": "amazing people, luas is alwas on time",
+    "Latitude": 53.346864,
+    "Longitude": -6.273436
+  },
+  {
+    "Stops": "Jervis",
+    "Reviews": "Great for shopping ",
+    "Latitude": 53.347686,
+    "Longitude": -6.265333
+  },
+  {
+    "Stops": "Abbey Street",
+    "Reviews": "Placement year was completed here",
+    "Latitude": 53.348589,
+    "Longitude": -6.258172
+  },
+  {
+    "Stops": "Buseras",
+    "Reviews": "Bus prices are expensive",
+    "Latitude": 53.350075,
+    "Longitude": -6.25145
+  },
+  {
+    "Stops": "Connolly",
+    "Reviews": "10 stops per hour. very good",
+    "Latitude": 53.350922,
+    "Longitude": -6.249942
+  },
+  {
+    "Stops": "George's Dock",
+    "Reviews": "Great for watching ships",
+    "Latitude": 53.349528,
+    "Longitude": -6.247575
+  },
+  {
+    "Stops": "Mayor Square - NCI",
+    "Reviews": "good secenry",
+    "Latitude": 53.349247,
+    "Longitude": -6.243394
+  },
+  {
+    "Stops": "Spencer Dock",
+    "Reviews": "Great for watching ships set sail",
+    "Latitude": 53.348822,
+    "Longitude": -6.237147
+  },
+  {
+    "Stops": "The Point",
+    "Reviews": "very pointy",
+    "Latitude": 53.34835,
+    "Longitude": -6.229258
+  },
+  {
+    "Stops": "St. Stephen's Green",
+    "Reviews": "very nice walk with your partner",
+    "Latitude": 53.339072,
+    "Longitude": -6.261333
+  },
+  {
+    "Stops": "Harcourt",
+    "Reviews": "dont end up in coppers",
+    "Latitude": 53.333358,
+    "Longitude": -6.26265
+  },
+  {
+    "Stops": "Charlemont",
+    "Reviews": "some nice appartments",
+    "Latitude": 53.330669,
+    "Longitude": -6.258683
+  },
+  {
+    "Stops": "Ranelagh",
+    "Reviews": "some good bars",
+    "Latitude": 53.326433,
+    "Longitude": -6.256203
+  },
+  {
+    "Stops": "Beechwood",
+    "Reviews": "your having a laugh, the people are rude",
+    "Latitude": 53.320822,
+    "Longitude": -6.254653
+  },
+  {
+    "Stops": "Cowper",
+    "Reviews": "good for gyms",
+    "Latitude": 53.316467,
+    "Longitude": -6.253447
+  },
+  {
+    "Stops": "Milltown",
+    "Reviews": "has a cementry",
+    "Latitude": 53.309917,
+    "Longitude": -6.251728
+  },
+  {
+    "Stops": "Windy Arbour",
+    "Reviews": "the cars here are brand new",
+    "Latitude": 53.301558,
+    "Longitude": -6.250708
+  },
+  {
+    "Stops": "Dundrum",
+    "Reviews": "has a big shopping centre",
+    "Latitude": 53.292358,
+    "Longitude": -6.245117
+  },
+  {
+    "Stops": "Balally",
+    "Reviews": "not to shabby",
+    "Latitude": 53.286106,
+    "Longitude": -6.236772
+  },
+  {
+    "Stops": "Kilmacud",
+    "Reviews": "sure why not",
+    "Latitude": 53.283008,
+    "Longitude": -6.223886
+  },
+  {
+    "Stops": "Stillorgan",
+    "Reviews": "great for shopping for tables",
+    "Latitude": 53.279311,
+    "Longitude": -6.209919
+  },
+  {
+    "Stops": "Sandyford",
+    "Reviews": "decent prices housing and tram every hour",
+    "Latitude": 53.277603,
+    "Longitude": -6.204678
+  },
+  {
+    "Stops": "Central Park",
+    "Reviews": "nice walk with your other half",
+    "Latitude": 53.27015,
+    "Longitude": -6.203764
+  },
+  {
+    "Stops": "Glencairn",
+    "Reviews": "Great for walks",
+    "Latitude": 53.266336,
+    "Longitude": -6.209942
+  },
+  {
+    "Stops": "The Gallops",
+    "Reviews": "good secenry",
+    "Latitude": 53.261164,
+    "Longitude": -6.206022
+  },
+  {
+    "Stops": "Leopardstown Valley",
+    "Reviews": "This is a must see",
+    "Latitude": 53.258247,
+    "Longitude": -6.198361
+  },
+  {
+    "Stops": "Ballyogan Wood",
+    "Reviews": "housing is scandless here",
+    "Latitude": 53.255047,
+    "Longitude": -6.184475
+  },
+  {
+    "Stops": "Racecourse (passive stop)",
+    "Reviews": "always a fun day out to lose money",
+    "Latitude": 53.255367,
+    "Longitude": -6.175161
+  },
+  {
+    "Stops": "Carrickmines",
+    "Reviews": "Great for walking",
+    "Latitude": 53.254033,
+    "Longitude": -6.169908
+  },
+  {
+    "Stops": "Brennanstown (passive stop)",
+    "Reviews": "Great for jogging",
+    "Latitude": 53.252619,
+    "Longitude": -6.161597
+  },
+  {
+    "Stops": "Laughanstown",
+    "Reviews": "Great for talking to the locals",
+    "Latitude": 53.250606,
+    "Longitude": -6.155006
+  },
+  {
+    "Stops": "Cherrywood",
+    "Reviews": "has the oldest trees in dublin",
+    "Latitude": 53.245333,
+    "Longitude": -6.145853
+  },
+  {
+    "Stops": "Brides Glen",
+    "Reviews": "has many irish folks",
+    "Latitude": 53.242075,
+    "Longitude": -6.142886
+  },
+  {
+    "Stops": "",
+    "Reviews": "",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "Stops": "",
+    "Reviews": "",
+    "Latitude": "",
+    "Longitude": ""
+  }
+]
