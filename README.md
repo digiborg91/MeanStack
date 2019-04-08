@@ -1,10 +1,10 @@
 # MeanStack
-Add/Edit/Remove Dublin Luas stops. MEAN Stack.
+Add/Edit/Remove Dublin Luas stops,  Leave reviews, Locations Marked on Google Maps
 
-add node_modules with npm install express 
+1. add node_modules with npm install express
 
-run mongod
+2. run mongod
 
-run file 
+3. run file
 
-happy going
+4. happy going
